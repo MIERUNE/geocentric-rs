@@ -35,4 +35,4 @@ MIT
 
 ## Author
 
-- Taku Fukada ([@ciscorn](https://github.com/ciscorn))
+Taku Fukada ([@ciscorn](https://github.com/ciscorn))
